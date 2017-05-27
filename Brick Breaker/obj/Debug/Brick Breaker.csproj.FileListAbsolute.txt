@@ -1,0 +1,9 @@
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.exe.config
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.exe
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\bin\Debug\Brick Breaker.pdb
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick_Breaker.Frame.resources
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick_Breaker.Properties.Resources.resources
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.csproj.GenerateResource.Cache
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.exe
+c:\users\dame\documents\visual studio 2015\Game\Brick Breaker\Brick Breaker\obj\Debug\Brick Breaker.pdb
